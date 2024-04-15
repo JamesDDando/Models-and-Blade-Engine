@@ -1,5 +1,6 @@
 @include('partials.header')
 
+
 <div class="container mx-auto">
     <table class="table-auto w-full">
         <thead>
@@ -24,5 +25,6 @@
         </tbody>
     </table>
 </div>
+
 
 @include('partials.footer')
